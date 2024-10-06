@@ -14,8 +14,6 @@ import java.util.stream.IntStream;
 
 public class InputFileParser {
 
-    private final String space = " ";
-
     private final List<MowerCommand> mowerCommands = new ArrayList<>();
     private final FileParserValidator validator = new FileParserValidator();
 

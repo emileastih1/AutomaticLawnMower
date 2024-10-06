@@ -77,5 +77,5 @@ mvn clean install
 ```
 #### Run the program with an input file:
 ```bash  
-java -jar target/AutomaticLawnMower.jar mowing-instructions.txt
+java -jar target/AutomaticLawnMower-1.0-SNAPSHOT.jar mowing-instructions.txt
 ```
